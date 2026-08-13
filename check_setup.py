@@ -14,8 +14,6 @@ plt.xlabel("x")
 plt.ylabel("x squared")
 plt.grid(True)
 plt.show()
-<<<<<<< HEAD
 print("roll no: 25EC01028 - master")
-=======
 print("roll no: 25EC01028 - branch")
->>>>>>> conflit_branch
+print("DOB:21-07-2007")
